@@ -18,7 +18,8 @@ body {
 
 h1 {
   text-align: center;
-  color: #007bff; /* Color azul */
+  color: #e64e12;
+  font-size: 5rem;
 }
 
 form {
